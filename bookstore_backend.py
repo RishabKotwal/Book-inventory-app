@@ -45,7 +45,3 @@ def update(id, title, author, year, isbn):
     conn.close()
 
 connect()
-# insert("The Sea", "John Tablet", 1918, 1234567890)
-# insert("The Sun", "John Moore", 1927, 9683422343)
-# insert("The Moon", "Smith Will", 1908, 3423423490)
-# print(view())
